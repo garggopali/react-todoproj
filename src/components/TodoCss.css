@@ -1,0 +1,79 @@
+#to-do-form input{
+    background-color: rgb(218, 213, 228);
+    border: 5px;
+    width: 200px;
+    height: 40px;
+    padding: 0 20px;
+    margin: 20px;
+    font-size: 18px;
+    border-radius: 10px;
+    color: rgb(10, 9, 9);
+  }
+
+  #to-do-form input::placeholder{
+    color:rgba(31, 2, 2, 0.925);
+  }
+
+  #to-do-form input:focus,#to-do-form button:focus{
+    outline: none;
+  }
+  
+  #to-do-form button{
+    height: 40px;
+    width: 80px;
+    border-radius: 10px;
+    border: 5;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bolder;
+    background-color:  rgb(222, 222, 226);
+  }
+
+  h1{
+      margin: 32px 0;
+      font-size: 24px;
+  }
+
+  .todo-row{
+    color: rgb(12, 2, 2);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 16px;
+    font-size: 18px;
+
+    width: 300px;
+    background-color: rgb(218, 213, 228);
+    margin: 5px auto;
+    border-radius: 5px;
+    }
+    .list p{
+        padding: 10px;
+        position: relative;
+    }
+    .list p span{
+        position: absolute;
+        right: 10px;
+        cursor: pointer;
+    }
+    .list p input{
+        background-color: transparent;
+        border: 0;
+        color: rgb(10, 8, 8);
+        font-size: 18px;
+    }
+    .list p input:focus{
+        outline: none;
+    }
+    .icons{
+        margin: 0 5px;
+        font-size: 24px;
+        align-items: center;
+        cursor: pointer;
+        display: flex;
+    }
+
+    .delete-icon{
+         margin-right: 5px;
+    }
+    
