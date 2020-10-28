@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/react-todoproj/static/css/main.545ca239.chunk.css",
-    "main.js": "/react-todoproj/static/js/main.d6e93169.chunk.js",
-    "main.js.map": "/react-todoproj/static/js/main.d6e93169.chunk.js.map",
-    "runtime-main.js": "/react-todoproj/static/js/runtime-main.a1261b98.js",
-    "runtime-main.js.map": "/react-todoproj/static/js/runtime-main.a1261b98.js.map",
-    "static/js/2.2d773ac2.chunk.js": "/react-todoproj/static/js/2.2d773ac2.chunk.js",
-    "static/js/2.2d773ac2.chunk.js.map": "/react-todoproj/static/js/2.2d773ac2.chunk.js.map",
-    "static/js/3.1a162e21.chunk.js": "/react-todoproj/static/js/3.1a162e21.chunk.js",
-    "static/js/3.1a162e21.chunk.js.map": "/react-todoproj/static/js/3.1a162e21.chunk.js.map",
-    "index.html": "/react-todoproj/index.html",
-    "static/css/main.545ca239.chunk.css.map": "/react-todoproj/static/css/main.545ca239.chunk.css.map",
-    "static/js/2.2d773ac2.chunk.js.LICENSE.txt": "/react-todoproj/static/js/2.2d773ac2.chunk.js.LICENSE.txt",
-    "static/media/logo.103b5fa1.svg": "/react-todoproj/static/media/logo.103b5fa1.svg"
+    "main.css": "/react-todoproj1/static/css/main.545ca239.chunk.css",
+    "main.js": "/react-todoproj1/static/js/main.d6e93169.chunk.js",
+    "main.js.map": "/react-todoproj1/static/js/main.d6e93169.chunk.js.map",
+    "runtime-main.js": "/react-todoproj1/static/js/runtime-main.bd87204f.js",
+    "runtime-main.js.map": "/react-todoproj1/static/js/runtime-main.bd87204f.js.map",
+    "static/js/2.2d773ac2.chunk.js": "/react-todoproj1/static/js/2.2d773ac2.chunk.js",
+    "static/js/2.2d773ac2.chunk.js.map": "/react-todoproj1/static/js/2.2d773ac2.chunk.js.map",
+    "static/js/3.1a162e21.chunk.js": "/react-todoproj1/static/js/3.1a162e21.chunk.js",
+    "static/js/3.1a162e21.chunk.js.map": "/react-todoproj1/static/js/3.1a162e21.chunk.js.map",
+    "index.html": "/react-todoproj1/index.html",
+    "static/css/main.545ca239.chunk.css.map": "/react-todoproj1/static/css/main.545ca239.chunk.css.map",
+    "static/js/2.2d773ac2.chunk.js.LICENSE.txt": "/react-todoproj1/static/js/2.2d773ac2.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/react-todoproj1/static/media/logo.103b5fa1.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a1261b98.js",
+    "static/js/runtime-main.bd87204f.js",
     "static/js/2.2d773ac2.chunk.js",
     "static/css/main.545ca239.chunk.css",
     "static/js/main.d6e93169.chunk.js"
